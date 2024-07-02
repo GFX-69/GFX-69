@@ -1,4 +1,4 @@
-<h1 align="center"> 💎 =[ WELCOME TO GFX-69 ]= 💎</h1>
+<h1 align="center"> 💎 =[ GFX-69 ]= 💎</h1>
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 <p align="center"><img src="https://img.shields.io/badge/I'%20am BANGLADESHI- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
